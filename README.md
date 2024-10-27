@@ -1,0 +1,1 @@
+# -17.-Magic-__bool__-method-of-determining-object-truthfulness-Python-OOP
